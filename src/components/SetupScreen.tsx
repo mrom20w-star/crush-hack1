@@ -496,8 +496,8 @@ export function SetupScreen({
 
               <div className="grid grid-cols-2 gap-3" dir="ltr">
                 {[
-                  { label: 'USD ($)', value: '$4.00' },
-                  { label: 'EGP (L.E)', value: '180 L.E' },
+                  { label: 'USD ($)', value: '$5.00' },
+                  { label: 'EGP (L.E)', value: '300 L.E' },
                 ].map((item) => (
                   <div
                     key={item.label}
